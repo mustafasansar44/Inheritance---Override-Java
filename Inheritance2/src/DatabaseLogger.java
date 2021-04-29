@@ -1,7 +1,7 @@
 
 public class DatabaseLogger extends Logger{
-	@Override 		// Bunu yazmasakta log'u override eder ama yazarsak biz anlarýz.
+	@Override 		// Bunu yazmasakta log'u override eder
 	public void log() {
-		System.out.println("Database loglandý");
+		System.out.println("Database loglandÄ±");
 	}
 }
